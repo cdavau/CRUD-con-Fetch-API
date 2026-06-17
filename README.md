@@ -1,4 +1,4 @@
-# 🛒 Laboratorio: CRUD con Fetch API + PHP OOP + MySQL
+# Laboratorio: CRUD con Fetch API + PHP OOP + MySQL
 
 **Asignatura:** Desarrollo de Software VII  
 **Grupo:** 1GS132 
