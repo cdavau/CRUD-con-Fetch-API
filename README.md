@@ -82,7 +82,7 @@ Modifica los datos y haz clic en **Actualizar**. SweetAlert confirma el éxito.
 
 ---
 
-### 6. ❌ Validación de errores
+### 6. Validación de errores
 Si un campo está vacío o tiene datos inválidos, SweetAlert muestra los errores.
 
 <img width="1113" height="637" alt="image" src="https://github.com/user-attachments/assets/6eb3f99b-6762-4364-a82e-d90097dee8d9" />
